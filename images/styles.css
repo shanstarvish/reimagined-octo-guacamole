@@ -33,12 +33,14 @@ img {width: 220px;
 .title  {padding-left: 20px;
   padding-right: 20px;
   text-align: center;
-  font-weight: 700;}
+  font-weight: 700;
+font-style: bold;}
 
 .description {padding: 20px;
   color: hsl(220, 15%, 55%);
 text-align: center;
-  font-weight: 400;}
+  font-weight: 400;
+}
 
   .attribution { font-size: 11px; text-align: center; }
   .attribution a { color: hsl(228, 45%, 44%); }
