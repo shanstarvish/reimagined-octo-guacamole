@@ -25,7 +25,9 @@
 }
 img {width: 214px;
     height: auto;
-    border-radius: 7px;}
+    border-radius: 7px;
+    justify-self: center;
+}
 
 .title  {padding-left: 20px;
   padding-right: 20px;
