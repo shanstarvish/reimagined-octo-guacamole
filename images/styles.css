@@ -23,8 +23,10 @@
   }
 
 .qrcode {padding: 15px;
+    width: 250px;
 }
-img {border-radius: 7px;}
+img {
+    border-radius: 7px;}
 
 .title  {padding-left: 20px;
   padding-right: 20px;
